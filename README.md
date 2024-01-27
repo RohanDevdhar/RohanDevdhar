@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.redd.it/n8agw6z2smyb1.gif" align="center" height="300" width="800" />
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" align="center" height="300" width="800" />
 </div>  
   
 
@@ -48,31 +48,31 @@
 
 <div align="center">  
     <a href="https://www.python.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+        <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
     </a>  
     <a href="https://www.php.net/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
+        <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
     </a>  
     <a href="https://www.djangoproject.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
+        <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
     </a>  
     <a href="https://laravel.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
+        <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />
     </a>  
     <a href="https://www.mysql.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+        <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
     </a>  
     <a href="https://www.apachefriends.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
+        <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
     </a>  
 </div>
 
 <div align="center">  
     <a href="https://github.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+        <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
     </a>  
     <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+        <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
     </a>  
 </div>
 
