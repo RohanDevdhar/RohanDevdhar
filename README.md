@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" height="" width="" />
+<img src="https://www.newus.in/image/full-stack-program-image.gif" height="350" width="850" />
 </div>  
   
 
