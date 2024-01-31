@@ -67,7 +67,10 @@
     </a>&nbsp;&nbsp;  
     <a href="https://www.apachefriends.org/" target="_blank">
         <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
-    </a>  
+    </a> &nbsp;&nbsp; 
+  <a href="https://moodle.org/" target="_blank">
+    <img style="margin: 30px" src="https://w7.pngwing.com/pngs/78/454/png-transparent-moodle-original-logo-icon.png" alt="Moodle" height="50" />
+</a>
 </div>
 <b>Tools</b>
 <div align="left">  
