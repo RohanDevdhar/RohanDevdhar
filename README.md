@@ -64,10 +64,7 @@
     </a>&nbsp;&nbsp;  
     <a href="https://www.mysql.com/" target="_blank">
         <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-    </a>&nbsp;&nbsp;  
-    <a href="https://www.apachefriends.org/" target="_blank">
-        <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
-    </a> &nbsp;&nbsp; 
+    </a>&nbsp;&nbsp;   
   <a href="https://moodle.org/" target="_blank">
     <img style="margin: 30px" src="https://w7.pngwing.com/pngs/78/454/png-transparent-moodle-original-logo-icon.png" alt="Moodle" height="50" />
 </a>
@@ -79,7 +76,10 @@
     </a>&nbsp;&nbsp;  
     <a href="https://www.gnu.org/software/bash/" target="_blank">
         <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-    </a>  
+    </a> &nbsp;&nbsp;  
+  <a href="https://www.apachefriends.org/" target="_blank">
+        <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />
+    </a>
 </div>
 
 <br/>  
